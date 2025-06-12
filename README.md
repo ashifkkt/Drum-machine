@@ -1,5 +1,5 @@
 # Drum Machine
-#####
+####
 
 This project implements a virtual drum machine using HTML, CSS, and JavaScript. Each key corresponds to a specific drum sound, allowing users to trigger sounds by pressing corresponding keys on their keyboard.
 
